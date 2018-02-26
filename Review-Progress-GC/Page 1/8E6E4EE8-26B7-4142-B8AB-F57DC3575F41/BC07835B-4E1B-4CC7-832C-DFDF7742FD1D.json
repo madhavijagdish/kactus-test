@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BC07835B-4E1B-4CC7-832C-DFDF7742FD1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 45,
+    "width": 110,
+    "x": 133,
+    "y": 372
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "ButtonProgressGreen Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "3F344567-F66B-445D-B08B-86B8FC10779D",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A99B30BB-55BC-4E2D-B383-4FC51624DC9A/D11D2C27-A622-445A-BBB3-855D613C23B1_stringValue",
+      "value": "7 DAYS"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ED929A40-29C2-405C-984C-29A7BC558257_symbolID",
+      "value": "10BCAA4F-24D7-4876-BB7D-65FD12553ED9"
+    }
+  ],
+  "overrides": {
+    "A99B30BB-55BC-4E2D-B383-4FC51624DC9A": {
+      "D11D2C27-A622-445A-BBB3-855D613C23B1": "7 DAYS"
+    },
+    "ED929A40-29C2-405C-984C-29A7BC558257": {
+      "symbolID": "10BCAA4F-24D7-4876-BB7D-65FD12553ED9"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1A9D9A60-F5C6-4AF3-BD30-ED519BF078F3",
+  "verticalSpacing": 0
+}
